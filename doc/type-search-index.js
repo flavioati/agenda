@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"agenda.controller","l":"Controller"},{"p":"agenda.model","l":"DAO"},{"p":"agenda.model","l":"JavaBeans"},{"p":"agenda.controller.util","l":"MyHttpServletRequestWrapper"}];updateSearchResults();
